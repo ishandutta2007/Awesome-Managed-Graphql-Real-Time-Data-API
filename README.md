@@ -14,7 +14,7 @@
 
 A curated catalog and landscape analysis of **Managed GraphQL Cloud Services** ☁️, **Real-Time Data API Platforms** ⚡, **Federation Engines** 🕸️, and **Open-Source GraphQL Frameworks** 🛠️. 
 
-Whether you are building high-throughput microservices 🏗️, real-time WebSocket subscriptions 🔌, or federating distributed enterprise data graphs 🌐, this guide compares top commercial platforms and open-source solutions by pricing 💰, enterprise valuation 📈, GitHub stars ⭐, and architectural features 🏛️.
+Whether you are building high-throughput microservices 🏗️, real-time WebSocket subscriptions 🔌, or federating distributed enterprise data graphs 🌐, this guide compares top commercial platforms and open-source solutions by pricing 💰, enterprise valuation 📈, GitHub_Stars ⭐, and architectural features 🏛️.
 
 ---
 
@@ -61,9 +61,9 @@ Commercial managed GraphQL platforms sorted by company scale (Valuation / Revenu
 
 ## 🔓 Open-Source GraphQL Engines & Frameworks
 
-Top open-source GraphQL repositories, server frameworks, and federation routers sorted by **GitHub Star Count** ⭐ (descending):
+Top open-source GraphQL repositories, server frameworks, and federation routers sorted by **GitHub Stars_Count** ⭐ (descending):
 
-| Repository / Project | GitHub Stars & Link ⭐ | License 📄 | Primary Stack / Ecosystem 💻 | Key Architectural Highlights 🏛️ |
+| Repository / Project | GitHub_Stars & Link ⭐ | License 📄 | Primary Stack / Ecosystem 💻 | Key Architectural Highlights 🏛️ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Hasura Engine** 🚀 | [![Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers) | Apache-2.0 | Haskell / C++ | Instant GraphQL and REST APIs over PostgreSQL, MySQL, and SQL Server with real-time WebSocket subscriptions. |
 | **Dgraph** 🕸️ | [![Stars](https://img.shields.io/github/stars/dgraph-io/dgraph?style=social&color=white)](https://github.com/dgraph-io/dgraph/stargazers) | Apache-2.0 | Go | Distributed, transactional GraphQL-native graph database with built-in subscription support. |
@@ -144,7 +144,7 @@ If you find this repository helpful for your API architecture decisions, enterpr
 
 - This list is community-curated for informational and architectural reference.
 - Company scale and pricing details reflect public market data, official pricing sheets, and venture funding reports as of **October 2026**.
-- Open-source star counts update dynamically across GitHub.
+- Open-source Stars_Counts update dynamically across GitHub.
 
 ---
 
